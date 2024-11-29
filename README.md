@@ -13,7 +13,7 @@ In this task, you will work with the Communities and Crime Dataset from the UCI 
 * Build a linear regression model on the prepared dataset.
 * Perform 5-fold cross-validation with randomized 80-20 splits and report the average Mean Squared Error (MSE) across the test sets.
 * Document the parameters obtained for each of the five models.
-* 
+
 ## Ridge Regression:
 
 * Apply Ridge regression using various values of the regularization parameter λ.
