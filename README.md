@@ -1,4 +1,4 @@
-# Communities and Crime
+# communities-and-crime
 
 In this task, you will work with the Communities and Crime Dataset from the UCI repository (link). The objective is to analyze and model the data through the following steps:
 
